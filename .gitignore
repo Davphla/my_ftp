@@ -1,0 +1,16 @@
+.idea
+.vscode
+
+*.o
+*.a
+
+myftp
+*.log
+vgcore*
+
+tests/real
+tests/test
+
+a.out
+test*
+client
